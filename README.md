@@ -1,3 +1,8 @@
+----------------------------------------------------------
+⚠️ **Important Notice on Data Privacy**
+----------------------------------------------------------
+All `patient_id` values displayed or analyzed in this project have been securely anonymized using the `anonymous_head` function. This function applies a **non-reversible, cryptographic hash**, ensuring that no original patient identities can be retrieved or traced. This project adheres strictly to data privacy standards and ethical data handling practices.
+
 # Clustering_Diabetes_Patients
 
 This repository contains the code and notebooks for preprocessing and analyzing electronic health record (EHR) data to identify optimal clustering methods for diabetes patients based on their medication patterns. This is a sub-project of our research team’s larger diabetes study; all code in this repo was developed solely by DK Lee.
