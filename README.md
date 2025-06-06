@@ -5,7 +5,7 @@ All `patient_id` values displayed or analyzed in this project have been securely
 
 # Clustering_Diabetes_Patients
 
-This repository contains the code and notebooks for preprocessing and analyzing electronic health record (EHR) data to identify optimal clustering methods for diabetes patients based on their medication patterns. This is a sub-project of our research team’s larger diabetes study; all code in this repo was developed solely by DK Lee.
+This repository contains the code and notebooks for preprocessing and analyzing electronic health record (EHR) data to identify optimal clustering methods for diabetes patients based on their medication patterns. This is a sub-project of our research team’s larger diabetes study; Code in this repo was written by the author (DK Lee), and the ideas were discussed with the team.
 
 > **Note:** The `data/` directory (containing raw patient data) is omitted from version control due to privacy restrictions. Before running workflows, ensure you have a local `data/extracted/` folder populated with preprocessed CSVs.
 
