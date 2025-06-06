@@ -1,7 +1,7 @@
 ----------------------------------------------------------
 ⚠️ **Important Notice on Data Privacy**
 ----------------------------------------------------------
-All `patient_id` values displayed or analyzed in this project have been securely anonymized using the `anonymous_head` function. This function applies a **non-reversible, cryptographic hash**, ensuring that no original patient identities can be retrieved or traced. This project adheres strictly to data privacy standards and ethical data handling practices.
+All `patient_id` displayed or analyzed in this project have been securely anonymized using the `anonymous_head` function. This function applies a **non-reversible, cryptographic hash**, ensuring that no original patient identities can be retrieved or traced. This project adheres strictly to data privacy standards and ethical data handling practices.
 
 # Clustering_Diabetes_Patients
 
