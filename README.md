@@ -5,7 +5,7 @@ All `patient_id` displayed or analyzed in this project have been securely anonym
 
 # Clustering_Diabetes_Patients
 
-This repository contains the code and notebooks for preprocessing and analyzing electronic health record (EHR) data to identify optimal clustering methods for diabetes patients based on their medication patterns. This is a sub-project of our research team’s larger diabetes study; Code in this repo was written by the author (DK Lee), and the ideas were discussed with the team.
+This repository contains the code and notebooks for preprocessing and analyzing electronic health record (EHR) data to identify optimal clustering methods for diabetes patients based on their medication patterns. This is a sub-project of our research team’s larger diabetes study; code in this repo was written by the author (DK Lee), and the ideas were discussed with the team.
 
 > **Note:** The `data/` directory (containing raw patient data) is omitted from version control due to privacy restrictions. Before running workflows, ensure you have a local `data/extracted/` folder populated with preprocessed CSVs.
 
@@ -24,7 +24,7 @@ This repository contains the code and notebooks for preprocessing and analyzing 
 
 ## Features
 
-* **Data Loading & Conversion**: Read RData/RDS files, anonymize patient IDs, and convert medications into time‑binned matrices.
+* **Data Loading & Conversion**: Read RData/RDS files, anonymize patient IDs, and convert medications into time‑bin matrices.
 * **One‑Hot Encoding**: Generate and export one‑hot vectors for medication types.
 * **Info Matrix Construction**: Aggregate medication usage across user‑defined time bins (year, half‑year, quarter, month).
 * **Clustering Tools**: Hierarchical clustering (Ward’s method and cosine distance), combined threshold-based reassignments, cluster merging, and k‑evaluation (elbow and silhouette).
